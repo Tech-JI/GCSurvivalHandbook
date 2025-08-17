@@ -3,12 +3,14 @@
 layout: home
 
 hero:
-  name: "上交生存手册"
-  text: "SJTU Survival Handbook"
+  name: "GC生存手册"
   actions:
-    - theme: brand
-      text: GC生存手册
-      link: /survivalGC
+    - theme: alt
+      text: 学习生活
+      link: /study
+    - theme: alt
+      text: 平台
+      link: /platform
     - theme: alt
       text: 学生组织
       link: /organization
@@ -21,6 +23,6 @@ hero:
 
 features:
   - title: Presented by
-    details: GC学生会
+    details: 第20届GC学生会
 ---
 

@@ -2,16 +2,16 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "SJTU Survival Handbook",
-  description: "Presented by GC",
+  title: "GC Survival Handbook",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Home', link: '/' },
+      { text: '主页', link: '/' },
       {
-        text: 'Content',
+        text: '内容',
         items: [
-          { text: 'GC生存手册', link: '/survivalGC' },
+          { text: '学习生活', link: '/study' },
+          { text: '平台', link: '/platform' },
           { text: '学生组织', link: '/organization' },
           { text: 'WP', link: '/WP' },
           { text: '常用场所', link: '/location' }
@@ -21,9 +21,10 @@ export default defineConfig({
     siteTitle: false,
     sidebar: [
       {
-        text: 'Content',
+        text: '内容',
         items: [
-          { text: 'GC生存手册', link: '/survivalGC' },
+          { text: '学习生活', link: '/study' },
+          { text: '平台', link: '/platform' },
           { text: '学生组织', link: '/organization' },
           { text: 'WP', link: '/WP' },
           { text: '常用场所', link: '/location' }
