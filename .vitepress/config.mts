@@ -33,7 +33,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/Tech-JI/SJTUSurvivalHandbook' }
+      { icon: 'github', link: 'https://github.com/Tech-JI/GCSurvivalHandbook' }
     ]
   }
 })
