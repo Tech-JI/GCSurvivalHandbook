@@ -3,22 +3,24 @@
 layout: home
 
 hero:
-  name: "SJTU Survival Handbook"
-  text: "Presented by GC"
+  name: "上交生存手册"
+  text: "SJTU Survival Handbook"
   actions:
     - theme: brand
-      text: Life
-      link: /markdown-examples
+      text: GC生存手册
+      link: /survivalGC
     - theme: alt
-      text: Study
-      link: /api-examples
+      text: 学生组织
+      link: /organization
+    - theme: alt
+      text: WP
+      link: /WP
+    - theme: alt
+      text: 常用场所
+      link: /location
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Presented by
+    details: GC学生会
 ---
 

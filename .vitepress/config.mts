@@ -11,8 +11,10 @@ export default defineConfig({
       {
         text: 'Content',
         items: [
-          { text: 'Life', link: '/markdown-examples' },
-          { text: 'Study', link: '/api-examples' }
+          { text: 'GC生存手册', link: '/survivalGC' },
+          { text: '学生组织', link: '/organization' },
+          { text: 'WP', link: '/WP' },
+          { text: '常用场所', link: '/location' }
         ]
       }
     ],
@@ -21,14 +23,16 @@ export default defineConfig({
       {
         text: 'Content',
         items: [
-          { text: 'Life', link: '/markdown-examples' },
-          { text: 'Study', link: '/api-examples' }
+          { text: 'GC生存手册', link: '/survivalGC' },
+          { text: '学生组织', link: '/organization' },
+          { text: 'WP', link: '/WP' },
+          { text: '常用场所', link: '/location' }
         ]
       }
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/Tech-JI/SJTUSurvivalHandbook' }
     ]
   }
 })
