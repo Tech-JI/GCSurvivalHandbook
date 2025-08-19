@@ -14,7 +14,8 @@ export default defineConfig({
           { text: '平台', link: '/platform' },
           { text: '学生组织', link: '/organization' },
           { text: 'WP', link: '/WP' },
-          { text: '常用场所', link: '/location' }
+          { text: '常用场所', link: '/location' },
+          { text: '其他', link: '/extra' }
         ]
       }
     ],
@@ -27,7 +28,8 @@ export default defineConfig({
           { text: '平台', link: '/platform' },
           { text: '学生组织', link: '/organization' },
           { text: 'WP', link: '/WP' },
-          { text: '常用场所', link: '/location' }
+          { text: '常用场所', link: '/location' },
+          { text: '其他', link: '/extra' }
         ]
       }
     ],

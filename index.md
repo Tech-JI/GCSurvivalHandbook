@@ -20,7 +20,9 @@ hero:
     - theme: alt
       text: 常用场所
       link: /location
-
+    - theme: alt
+      text: 其他
+      link: /extra
 features:
   - title: Presented by
     details: 第20届GC学生会
