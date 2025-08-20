@@ -15,7 +15,7 @@ hero:
       text: 学生组织
       link: /organization
     - theme: alt
-      text: WP
+      text: 冬季项目
       link: /WP
     - theme: alt
       text: 常用场所
