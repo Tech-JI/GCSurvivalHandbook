@@ -1,16 +1,15 @@
 ### 一、冬季项目（WP）
 
-每年1月至2月，参加冬季项目的学生将分别去到四大洲，花4-6周时间学习文化、商业、工程或语言类课程。所有的项目都独具文化特色，并且包含了一段自由行时间，让大家可以独立探索异国风情。
+每年1月至2月，参加冬季项目（Winter Program, WP）的学生将分别去到四大洲，花4-6周时间学习文化、商业、工程或语言类课程。所有的项目都独具文化特色，并且包含了一段自由行时间，让大家可以独立探索异国风情。
 
 2025年，同学们去到了中国各地、英国、德国、法国、西班牙、匈牙利、克罗地亚、日本、韩国、新西兰、阿根廷等11个国家和地区。
 
 具体内容请阅读：
 
-1. 密院官网：[exchange-programs](https://www.ji.sjtu.edu.cn/cn/academics/ipo/study-abroad/exchange-programs)
+1. GC官网：[exchange-programs](https://www.ji.sjtu.edu.cn/cn/academics/ipo/study-abroad/exchange-programs)
 
-2. 微信公众号：UMSJTUJIIPO
+2. 微信公众号：UMSJTUJIIPO，有参与项目的同学们制作的非常详细的生活内容和图片资料。
 
-特别是在微信公众号上有参与项目的同学们制作的非常详细的生活内容和图片资料。
 
 Reminders:
 
