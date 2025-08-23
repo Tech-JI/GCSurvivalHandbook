@@ -18,6 +18,8 @@ Cloudflare pages offers a fast, secure, and often free way to host static websit
 
 [gc-survival-handbook](https://gc-survival-handbook.pages.dev/).
 
+or [survive.gcers.org](https://survive.gcers.org/).
+
 ## How to use
 
 1. create a .md file and fill it with desired content. e.g. /life.md
@@ -54,3 +56,5 @@ actions:
 ```
 
 4. push to `master` and the website will be automatically updated.
+
+5. use `bun run docs:dev` to preview the page.  
