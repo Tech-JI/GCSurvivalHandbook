@@ -1,0 +1,36 @@
+/* .vitepress/theme/my-fonts.css */
+
+/**
+ * 1. 定义自定义字体
+ * -------------------------------------------------------------------------- */
+
+/* 定义 "Noto Serif SC" 字体的常规字重 */
+@font-face {
+  font-family: "Noto Sans SC";
+  src: url("/fonts/NotoSansSC-Regular.woff2") format("woff2");
+  font-weight: 400; /* 400 等同于 normal */
+  font-style: normal;
+}
+
+/* 定义 "Noto Serif SC" 字体的粗体字重 */
+@font-face {
+  font-family: "Noto Sans SC";
+  src: url("/fonts/NotoSansSC-Bold.woff2") format("woff2");
+  font-weight: 700; /* 700 等同于 bold */
+  font-style: normal;
+}
+
+/**
+ * 2. 覆盖 VitePress 的默认字体变量
+ * -------------------------------------------------------------------------- */
+:root {
+  /* 设置基础字体，应用于网站大部分文本 */
+  --vp-font-family-base:
+    "Noto Sans SC", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+
+  /* 设置等宽字体，应用于代码块 */
+  /* 这里我们保持默认的等宽字体栈，因为 Noto Sans SC 不是等宽字体 */
+  --vp-font-family-mono: Menlo, Monaco, "Courier New", monospace;
+}
