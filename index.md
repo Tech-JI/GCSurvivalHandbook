@@ -27,4 +27,3 @@ features:
   - title: Presented by
     details: 第20届GC学生会
 ---
-
