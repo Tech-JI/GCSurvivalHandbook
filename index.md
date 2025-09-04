@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "GC生存手册"
+  name: "GC 生存手册"
   actions:
     - theme: alt
       text: 学习生活
@@ -25,5 +25,5 @@ hero:
       link: /extra
 features:
   - title: Presented by
-    details: 第20届GC学生会
+    details: 第 20 届 GC 学生会
 ---
