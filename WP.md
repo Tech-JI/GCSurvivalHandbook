@@ -6,9 +6,9 @@
 
 **具体内容请阅读**：
 
-1. **GC 官网**：[exchange-programs](https://www.ji.sjtu.edu.cn/cn/academics/ipo/study-abroad/exchange-programs)
+1. **GC 官网**：[exchange-programs](https://gc.sjtu.edu.cn/cn/academics/ipo/study-abroad/exchange-programs)
 
-2. **微信公众号**：**UMSJTUJIIPO**，有参与项目的同学们制作的非常详细的生活内容和图片资料。
+2. **微信公众号**：**GC看世界**，有参与项目的同学们制作的非常详细的生活内容和图片资料。
 
 **Reminders**:
 

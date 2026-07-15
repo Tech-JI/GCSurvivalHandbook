@@ -12,7 +12,7 @@
 - GC 学院的学生、教职工要**彼此信任**，坚守**诚信守则**的信条，对任何违反**诚信守则**的行为负有共同的责任。
 - **不劳而获**的学习成果是可耻的。
 
-**具体参阅**：[https://www.ji.sjtu.edu.cn/cn/academics/academic-integrity/honor-code/](https://www.ji.sjtu.edu.cn/cn/academics/academic-integrity/honor-code/)
+**具体参阅**：[https://gc.sjtu.edu.cn/cn/academics/academic-integrity/honor-code/](https://gc.sjtu.edu.cn/cn/academics/academic-integrity/honor-code/)
 
 ## **TA**（教学助理）
 
@@ -43,7 +43,7 @@
 ## **选课指南**
 
 1. **选课网站**:  
-   [https://coursesel.umji.sjtu.edu.cn](https://coursesel.umji.sjtu.edu.cn)
+   [https://coursesel.gc.sjtu.edu.cn](https://coursesel.gc.sjtu.edu.cn)
 
 2. **选课时间**  
    选课的时间一般都在学期前、假期中。每年的具体时间不一定是固定的，但**canvas**上都会通知。**务必不要忘记或记错选课的时间**，在一些情况下（稍后会进一步讲解）这会为大家的选课带来很不利的影响。
@@ -81,7 +81,7 @@
 
 - **UEO**：Undergraduate Education Office，本科生教务处，选课相关问题都可以咨询相应负责人
 
-- **bpm**：即时办，申请学分相关事务的平台。链接：[https://bpm.umji.sjtu.edu.cn](https://bpm.umji.sjtu.edu.cn)
+- **bpm**：即时办，申请学分相关事务的平台。链接：[https://bpm.gc.sjtu.edu.cn](https://bpm.gc.sjtu.edu.cn)
 
 - **Workload**：每个学期需要修的由学院开出的课的学分范围 必须要在 12-18 分内
 
