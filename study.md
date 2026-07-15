@@ -12,7 +12,7 @@
 - GC 学院的学生、教职工要**彼此信任**，坚守**诚信守则**的信条，对任何违反**诚信守则**的行为负有共同的责任。
 - **不劳而获**的学习成果是可耻的。
 
-**具体参阅**：[https://www.gc.sjtu.edu.cn/cn/academics/academic-integrity/honor-code/](https://www.gc.sjtu.edu.cn/cn/academics/academic-integrity/honor-code/)
+**具体参阅**：[https://gc.sjtu.edu.cn/cn/academics/academic-integrity/honor-code/](https://gc.sjtu.edu.cn/cn/academics/academic-integrity/honor-code/)
 
 ## **TA**（教学助理）
 
