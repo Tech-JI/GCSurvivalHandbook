@@ -21,6 +21,9 @@ hero:
       text: Locations
       link: /en/location
     - theme: alt
+      text: Workshops
+      link: /en/wksp
+    - theme: alt
       text: More
       link: /en/extra
 features:
