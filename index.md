@@ -21,6 +21,9 @@ hero:
       text: 常用场所
       link: /location
     - theme: alt
+      text: Workshops
+      link: /wksp
+    - theme: alt
       text: 其他
       link: /extra
 features:
