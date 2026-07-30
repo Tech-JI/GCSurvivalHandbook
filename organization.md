@@ -115,7 +115,7 @@
 
 **Advising Center**（简称**AC**）是专门为同学们提供全方位**学业支持**的平台。在过去几年中，AC 持续开展了一系列内容丰富、实用性强的 workshop 活动，邀请各专业优秀的学长学姐们就**学业规划**、**选课指导**、**项目申请**、**科研实习**等关键学习环节进行经验分享。除了定期举办的 workshop 外，AC 的助管团队还为同学们提供**线上线下咨询**服务，随时为同学们解答各类学业疑问。
 
-为方便同学们随时获取学习资源，AC 特别搭建了 Piazza 在线答疑平台，同时将所有 workshop 的精彩内容整理归档至官方 GitHub 仓库：[github.com/GC-Advising-Center](https://github.com/GC-Advising-Center/Workshops) ，同学们也可以通过 AC 公众号的"资料汇总"栏目查看往期资料。
+为方便同学们随时获取学习资源，AC 特别搭建了 Piazza 在线答疑平台，同时将所有 workshop 的精彩内容整理归档至官方 GitHub 仓库：[github.com/GC-Advising-Center](https://github.com/GC-Advising-Center/Workshops) 和 Workshop 存档网站：[ac.gcers.org](https://ac.gcers.org) ，同学们也可以通过 AC 公众号的"资料汇总"栏目查看往期资料。
 
 ## **心协**
 

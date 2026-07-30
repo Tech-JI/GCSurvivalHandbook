@@ -112,7 +112,7 @@ The Publicity Department's main role is managing the **GCInnovation+** WeChat pu
 
 The **Advising Center** (abbreviated as **AC**) is a dedicated platform providing comprehensive **academic support** for students. Over the past few years, AC has organized a series of content-rich, practical workshops featuring excellent senior students from various majors who share their experiences on key academic topics such as **academic planning**, **course selection guidance**, **program applications**, and **research internships**. In addition to regular workshops, AC's team of student assistants offers **both online and in-person advising services**, ready to answer any academic questions students may have.
 
-To make learning resources easily accessible, AC has set up a Piazza Q&A platform and has archived all workshop materials in its official GitHub repository: [github.com/GC-Advising-Center](https://github.com/GC-Advising-Center/Workshops). Students can also access past materials through the "Resources" section on the AC WeChat public account.
+To make learning resources easily accessible, AC has set up a Piazza Q&A platform and has archived all workshop materials in its official GitHub repository: [github.com/GC-Advising-Center](https://github.com/GC-Advising-Center/Workshops) and Workshop archive site: [ac.gcers.org](https://ac.gcers.org). Students can also access past materials through the "Resources" section on the AC WeChat public account.
 
 ## **Psychology Association**
 
