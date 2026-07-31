@@ -2,7 +2,7 @@
 
 ## **International Winter Program** (WP)
 
-Every year from **January to February**, students participating in the **Winter Program** (**WP**) travel across four continents for **4–6 weeks** to study culture, business, engineering, or language courses. Each program is uniquely shaped by its destination's cultural character and includes a period of **free travel**, giving participants the chance to independently explore their host country.
+Every year from **January to February**, students participating in the **Winter Program** (**WP**) travel across four continents for **4--6 weeks** to study culture, business, engineering, or language courses. Each program is uniquely shaped by its destination's cultural character and includes a period of **free travel**, giving participants the chance to independently explore their host country.
 
 Winter programs fall into the following categories:
 - **Cultural**: Experience local culture, history, and society; some programs include language courses
@@ -11,137 +11,25 @@ Winter programs fall into the following categories:
 
 ### **How to Apply**
 
-1. **Submit Your Application**: Submit the online application before the deadline. The application includes a 250-word English essay. (*Due to limited spots, late applications will not be accepted.*)
-2. **Confirm Participation**: After receiving your acceptance notice, confirm whether you will participate. After confirming, you must submit: a copy of your passport (valid for at least six months), a copy of your ID card, and the *Parental Consent Form* and *Health Declaration Form* signed by both you and your parent/guardian.
+1. **Submit Your Application**: Submit the online application before the deadline. The application includes a 250-word English essay. (*Due to limited spots, late applications will not be accepted. The application window is typically only 3-4 days, so apply early.*)
+2. **Selection**: IPO evaluates applications based on: (1) Submission time -- first-come, first-served; (2) Year of study -- priority given to seniors and juniors; (3) Essay quality -- must follow the required format; using AI tools is not allowed. Essays must be submitted as a PDF file.
+3. **Confirm Participation**: After receiving your acceptance notice, confirm whether you will participate. A deposit will be charged to secure your place. After confirming, you must submit: a copy of your passport (valid for at least six months), a copy of your ID card, and the *Parental Consent Form* and *Health Declaration Form* signed by both you and your parent/guardian.
 
-### **Reference Programs (2026–2027)**
+### **Reference Programs (2026--2027)**
 
-Program destinations rotate each year. The information below is for reference; check the official **IPO notices** for the current year's offerings.
+Program destinations rotate each year. The information below is for reference; check the official **IPO notices** for the current year's offerings. Click the tags below to filter by program type:
 
-::: details Argentina — Instituto Tecnológico de Buenos Aires (ITBA)
-![ITBA](https://smse.sjtu.edu.cn/storage/ji/web/ipcn/page/2026/05/f94672bd643e55f1fd18a9fff2243985.jpg)
-
-**Duration**: 4 weeks | **Eligibility**: All students
-
-**Data Analytics** (course equivalent: STAT4710J) or **Innovation & Digital Business** (pending approval)
-- Covers databases, data analytics, and visualization using IBM InfoSphere, SQL Server, MicroStrategy, and other tools
-- Programming fundamentals and basic set theory / mathematical logic recommended
-
-**Spanish A1 + Latin American Culture** (3 IB Humanities credits)
-- Immersive experience in Argentine culture through Spanish language study and cultural exploration
-- Visit local cultural landmarks, sample regional cuisine, and interact with local students
-:::
-::: details Egypt — Cairo University
-![Cairo University](https://smse.sjtu.edu.cn/storage/ji/web/ipcn/page/2026/05/f180c8bc98cc30ad8aec6894e8fe79cd.jpg)
-
-**Duration**: 3 weeks | **Eligibility**: All students
-
-Courses offered: **Archaeology / Arabic Culture / Environmental Studies** (new courses, pending approval, estimated 2–3 credits)
-:::
-::: details Germany — Technische Universität Berlin (TU Berlin)
-![TU Berlin](https://smse.sjtu.edu.cn/storage/ji/web/ipcn/page/2026/05/e99ae9e5334af869e20c0f993122c6f6.jpg)
-
-**Duration**: 4 weeks | **Eligibility**: Technical programs — sophomore and above; Language programs — all students
-
-**German Language Course**: 4-week intensive German focusing on practical foundational communication skills
-**CanSat Satellite Model Practice**: Design, build a miniature satellite, and conduct a rocket launch field test
-**Introduction to Business Data Science with Python**: Statistics, ML, information visualization, and data analysis using Python
-**Virtual Reality & Augmented Reality Game Development**: Build XR applications using the Unity engine
-**Sustainable Building: Principles & Modeling**: Design and assessment of sustainable buildings
-Includes visits to the Reichstag, day trips to Potsdam/Dresden, and other cultural activities.
-:::
-::: details France — Université de Technologie de Troyes (UTT)
-![UTT](https://smse.sjtu.edu.cn/storage/ji/web/ipcn/page/2026/05/34e8da50c4edf3d6416506f5cacae004.jpg)
-
-**Duration**: 4 weeks | **Eligibility**: Sophomores and above
-
-**French as a Foreign Language** (6 IB Humanities credits): Placement-based, from beginner to advanced
-**Psychosocial Skills for Sustainable Management** (2 IB Personal Development credits): Communication, teamwork, leadership, decision-making
-:::
-::: details South Korea — Korea University
-![Korea University](https://smse.sjtu.edu.cn/storage/ji/web/ipcn/page/2026/05/484e1ea82ca6e942ed68549d02dd07a1.jpg)
-
-**Eligibility**: All students
-
-Students must take at least 4 credits. Courses include:
-- **Introduction to Artificial Intelligence** (2 credits; counts as general elective if ECE4920J already taken)
-- **Hallyu Entertainment: Cultural Waves Across Borders** (2 credits, Social Sciences)
-- **Beginner Korean I or II** (2 credits, Humanities)
-- **Korean Media & Popular Culture** (2 credits, Social Sciences)
-- **Social Psychology** (2 credits, Social Sciences)
-:::
-::: details Croatia — University of Zagreb
-![University of Zagreb](https://smse.sjtu.edu.cn/storage/ji/web/ipcn/page/2026/05/f7533c2d1376c7f9d76d80a54f9ee810.jpg)
-
-**Duration**: 4 weeks | **Eligibility**: All students
-
-Two modules, 4 courses, totaling 64 class hours:
-- **Finance & Accounting**: Financial markets, financial statement analysis, forensic accounting
-- **Innovation Management**: Idea generation, design thinking, business models, intellectual property
-- **Marketing & Branding**: Consumer behavior, brand management
-- **Innovation & AI**: Disruptive innovation, AI's transformation of industries
-The program is primarily based in Zagreb, with one week in Dubrovnik. Convenient access to Rome, Vienna, Budapest, and other European cities.
-:::
-::: details Japan — Ritsumeikan University
-![Ritsumeikan University](https://smse.sjtu.edu.cn/storage/ji/web/ipcn/page/2026/05/6ef049c7ce398eba73affdfa1b4adce4.jpg)
-
-**Duration**: 3 weeks of classes + 1 week of free travel | **Eligibility**: All students
-
-Course: Japanese Language and Culture
-:::
-::: details Japan — Sophia University
-![Sophia University](https://smse.sjtu.edu.cn/storage/ji/web/ipcn/page/2026/05/0e1a41680a173d526b83ecd2d11bf74a.jpg)
-
-**Duration**: 4 weeks of classes + 1 week of free travel | **Eligibility**: Sophomores and above
-
-Courses: Japanese Language, Japanese Business & Economics, Japanese Education, Japanese Contemporary Culture & Society, Japanese Media & Current Issues
-:::
-::: details Spain — University of Navarra
-![University of Navarra](https://smse.sjtu.edu.cn/storage/ji/web/ipcn/page/2026/05/1841026d96a2d1734a145f1dcd8d2c73.jpg)
-
-**Duration**: 4 weeks | **Eligibility**: Sophomores and above
-
-**Spanish** (3 IB Humanities credits) — Pamplona campus
-**Machine Learning & AI Algorithms** (pending approval) — San Sebastián campus
-- Implement ML/AI models using Python with Scikit-learn and TensorFlow
-- Prerequisites: Basic programming (Python preferred), basic statistics and linear algebra
-- Includes company visit (Multiverse Computing)
-:::
-::: details New Zealand — University of Auckland
-![University of Auckland](https://smse.sjtu.edu.cn/storage/ji/web/ipcn/page/2026/05/6bcdac5d79a242ff6b5d7b553717bb78.jpg)
-
-**Duration**: 7 weeks | **Eligibility**: Sophomores and above
-
-**STATS 330 – Statistical Modelling**: Generalized linear models (GLM), multiple regression, logistic regression, using R
-Includes Māori cultural experience day, Waiheke Island day trip, and other cultural activities.
-:::
-::: details Hungary — University of Pécs
-![University of Pecs](https://smse.sjtu.edu.cn/storage/ji/web/ipcn/page/2026/05/ae2faf2998f57a87a0a34cc76c1ba26f.jpg)
-
-**Duration**: 3 weeks | **Eligibility**: All students
-
-**European Art and Culture — Through the Lens of Central and Eastern European Towns**: An interdisciplinary course exploring European intellectual and cultural history, covering history, philosophy, art history, architecture, and more. Includes visits to museums and UNESCO World Heritage sites.
-:::
-::: details United Kingdom — University College London (UCL)
-![UCL](https://smse.sjtu.edu.cn/storage/ji/web/ipcn/page/2026/05/e7d0fae9eacd319cc520ba1434656658.jpg)
-
-**Duration**: 3 weeks | **Eligibility**: All students
-
-Three weekly themes:
-- **Week 1**: Programming & Algorithms, ML Fundamentals, Introduction to Reinforcement Learning
-- **Week 2**: Electronics & Sensors, Robotic Hardware Systems, Control Systems
-- **Week 3**: SLAM, Robot Navigation & Planning, Robotics Final Project
-
-Teaching takes place at UCL East (Stratford, London). Includes visits to the University of Cambridge and University of Oxford.
-:::
+<ProgramFilter type="wp" />
 
 **Reminders**:
 1. Interested students should prepare their **passport** well in advance (valid for at least six months)
-2. Check the application requirements carefully — some programs are only open to **upper-year** students
+2. Check the application requirements carefully -- some programs are only open to **upper-year** students
 3. Pay attention to the type and number of credits each program offers
 4. **WP** credits **cannot be double-counted** across **UM** and **SJTU**
 5. **WP coursework is not a walk in the park!** It is possible to fail and not receive credits, so you still need to put in the work
-6. Program spots are limited — **follow IPO announcements early** and prepare your application materials in advance
+6. Program spots are limited -- **follow IPO announcements early** and prepare your application materials in advance
+7. Fees typically include tuition and cultural activities; accommodation is included for most programs; flights, insurance, and visa fees are extra
+8. A **deposit** will be charged after admission to secure your place; all expenses during free travel week are self-funded
 
 **For details, refer to:**
 - **GC Official Website**: [exchange-programs](https://gc.sjtu.edu.cn/cn/academics/ipo/study-abroad/exchange-programs/)
@@ -152,60 +40,21 @@ Teaching takes place at UCL East (Stratford, London). Includes visits to the Uni
 
 In addition to the overseas **WP**, the domestic winter program is called **DWP** (**Domestic Winter Program**). These winter programs not only offer high-quality academic courses but also provide unique opportunities to explore Chinese culture and customs, make new friends, and take part in engaging study trips. The programs combine engineering, arts, humanities, and career development courses with research, field trips, and real-world practice.
 
-### **Reference Programs (2026–2027)**
+### **Reference Programs (2026--2027)**
 
-::: details Sustainable Design
-![Design for Sustainable Development](https://smse.sjtu.edu.cn/storage/ji/web/ipcn/page/2026/05/f3b7abbecb52ca2721064c83fe7253cb.jpg)
-
-**Credits**: IB-PD 2 credits | **Dates**: 2026.12.27 – 2027.1.7 | **Instructor**: Kwee-Yan Teh
-
-An action-oriented learning course where students work in teams to apply design skills to meet the sustainability needs of entrepreneurial ventures and community partner organizations. Includes interviews, immersive research, prototyping, field trips, and site visits.
-:::
-::: details Digital Photography
-![Digital Photography](https://smse.sjtu.edu.cn/storage/ji/web/ipcn/page/2026/05/9965e69d5ca40d22f4d76fcaa8a99bc4.png)
-
-**Credits**: IB-ART 2 credits | **Dates**: 2026.12.27 – 2027.1.7 | **Instructor**: Manuel Charlemagne
-
-Take students into China's urban and natural landscapes to explore the beauty of nature and human scenery through the lens, learning photography techniques to capture and present the best views.
-:::
-::: details Chinese History Field Study
-![Field Study in Chinese History](https://smse.sjtu.edu.cn/storage/ji/web/ipcn/page/2026/05/5578d4bb439a3fa620bc2653503d88cc.png)
-
-**Credits**: IB-SS 2 credits | **Dates**: 2026.12.27 – 2027.1.7 | **Instructor**: Tong Xu (徐彤)
-
-Travel to locations closely tied to specific themes in Chinese history, expanding and deepening understanding of Chinese history through experiential learning. Emphasizes immersive, firsthand engagement with history.
-:::
-::: details Computational Thinking with Data
-![Computational Thinking with Data](https://smse.sjtu.edu.cn/storage/ji/web/ipcn/page/2026/05/04c1aa3a83d2513a4bd45c5208d5efa2.jpg)
-
-**Credits**: FTE 2 credits | **Dates**: 2027.1.4 – 2027.1.15 | **Instructor**: Ailin Zhang (张爱琳)
-
-Focuses on computational applications in data science, including using numerical software to process data, data modeling, and presenting research findings to stakeholders. Students can independently apply the skills learned to a dataset of their choice.
-:::
-::: details Introduction to Literary Journalism
-![Introduction to Literary Journalism](https://smse.sjtu.edu.cn/storage/ji/web/ipcn/page/2026/05/a4ccd5ca792a9a7061999b8b96cc2f7e.png)
-
-**Credits**: IB-HU 2 credits | **Dates**: 2026.12.27 – 2027.1.7 | **Instructor**: Ryan Mallory Thorpe
-
-Travel to Chinese cities and remote areas to learn the practice of travel writing. Requires reading several works in advance. Through daily writing exercises and local experiences, discover truths about life and culture.
-:::
-::: details Shanghai Through the Lens of Art
-![Discovering Shanghai Through the Lens of Art](https://smse.sjtu.edu.cn/storage/ji/web/ipcn/page/2026/05/68ff1a13a5d8224a48eeaed920b3deb5.jpg)
-
-**Credits**: IB-Art 2 credits | **Dates**: 2026.12.27 – 2027.1.7 | **Instructor**: Aline Chevalier
-
-Explore the imagery of Shanghai as a cosmopolitan and diverse metropolis, understand the various arts and ideas that have shaped Shanghai's urban character throughout history, and interpret the sociological and philosophical concepts behind them.
-:::
+<ProgramFilter type="dwp" />
 
 **Reminders**:
 1. **Details**: [gc.sjtu.edu.cn/ipo/en/program/page/1025](https://gc.sjtu.edu.cn/ipo/en/program/page/1025)
 2. **DWP** course fees are charged at the **spring semester credit rate**
-3. Domestic programs also require **early registration** — spots are limited
+3. Domestic programs also require **early registration** -- spots are limited
 
 ## **Other Overseas Programs**
 
-Beyond winter programs, the **IPO (International Programs Office)** also offers the following overseas study opportunities (visit Longbin Building Room 301 for consultation):
+Beyond winter programs, the **IPO (International Programs Office)** also offers the following overseas study opportunities (visit Longbin Building Room 301, or call 021-34206045-3001/3002/3003):
 
-- **Semester Exchange (Exchange Program)**: Study at an overseas partner university for one semester, with transferable credits. See [gc.sjtu.edu.cn/ipo/en/program/page/1027](https://gc.sjtu.edu.cn/ipo/en/program/page/1027)
+- **Semester Exchange (Exchange Program)**: Study at an overseas partner university for one semester, with transferable credits. Partner institutions include KTH (Sweden), Cornell / CMU (US), KU Leuven (Belgium), EPFL (Switzerland), TUM / RWTH Aachen / KIT (Germany), and more -- around 40 spots per round. Application process: submit internal application (including transcript, English test score, 500-word motivation essay, passport copy) -> internal screening and interview -> admitted students complete the host university's online application. A recommendation letter is additionally required for US programs. See [gc.sjtu.edu.cn/ipo/en/program/page/1027](https://gc.sjtu.edu.cn/ipo/en/program/page/1027)
 - **Dual Degree Program**: Partnered with universities such as the University of Michigan to earn dual bachelor's degrees from both China and abroad. See [gc.sjtu.edu.cn/ipo/en/program/page/1021](https://gc.sjtu.edu.cn/ipo/en/program/page/1021)
 - **Global Degree Pathway (GDP)**: A bachelor's-to-master's accelerated program for earning an overseas master's degree. See [gc.sjtu.edu.cn/ipo/en/program/page/1022](https://gc.sjtu.edu.cn/ipo/en/program/page/1022)
+
+Course Equivalence Database (check approved credit-transfer courses): [i.ji.sjtu.edu.cn/course-equivalence](https://i.ji.sjtu.edu.cn/course-equivalence)
