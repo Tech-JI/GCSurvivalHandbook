@@ -53,7 +53,7 @@ The **Technical Department** is a **hands-on technical platform** where students
 
 - In **Workshops**, we regularly host a variety of hands-on sessions on topics like **Linux Install Party**, **Git**, **Bash**, **Typst**, **reflow soldering**, and **mechanical keyboards**, supporting students in their learning journey. It's not just a place to learn — it's also a space to connect and explore the joy of technology with like-minded peers.
 
-- The **Technical Maintenance Team** is responsible for keeping existing projects running and up to date, ensuring tools and services continue to serve students effectively. Along the way, you'll build solid practical experience and sharpen your problem-solving skills.
+- The **Technical Maintenance Team** is responsible for keeping existing projects running and up to date, ensuring tools and services continue to serve students effectively. The website you're reading right now is maintained and operated by the Technical Department. Along the way, you'll build solid practical experience and sharpen your problem-solving skills.
 
 - With the **Project Development Team**, you'll have the chance to dive into new, creative builds. Past projects include the **VSCode JOJ Plugin**, the **Ball Dance Mini-Program**, and more. Current projects in development include a **Course Selection Community**, a **PDF Translation Tool**, with future plans for an **Event Calendar** and a **Canvas Desktop App**. This is the ultimate stage for turning ideas into reality and transforming skills into tangible impact.
 
@@ -84,7 +84,7 @@ The Miyuan Volunteer Team **actively partners with community service organizatio
 
 ### **Labor Education**
 
-The Miyuan Volunteer Team combines **the educational value of labor with hands-on fun**, covering traditional arts and basic life skills. Through labor education activities, students can experience traditional crafts like lacquer fan painting, bamboo weaving, and flower arranging, make实用 items such as soap and red bean hand warmers, or learn baking, sewing, and other life skills. The colorful Perler bead sessions after midterms are especially great for soothing stressed minds.
+The Miyuan Volunteer Team combines **the educational value of labor with hands-on fun**, covering traditional arts and basic life skills. Through labor education activities, students can experience traditional crafts like lacquer fan painting, bamboo weaving, and flower arranging, make practical items such as soap and red bean hand warmers, or learn baking, sewing, and other life skills. The colorful Perler bead sessions after midterms are especially great for soothing stressed minds.
 
 ### **On-Campus Volunteer Activities**
 
