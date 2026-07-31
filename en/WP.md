@@ -19,6 +19,8 @@ Winter programs fall into the following categories:
 Program destinations rotate each year. The information below is for reference; check the official **IPO notices** for the current year's offerings.
 
 ::: details Argentina — Instituto Tecnológico de Buenos Aires (ITBA)
+![ITBA](https://smse.sjtu.edu.cn/storage/ji/web/ipcn/page/2026/05/f94672bd643e55f1fd18a9fff2243985.jpg)
+
 **Duration**: 4 weeks | **Eligibility**: All students
 
 **Data Analytics** (course equivalent: STAT4710J) or **Innovation & Digital Business** (pending approval)
@@ -30,11 +32,15 @@ Program destinations rotate each year. The information below is for reference; c
 - Visit local cultural landmarks, sample regional cuisine, and interact with local students
 :::
 ::: details Egypt — Cairo University
+![Cairo University](https://smse.sjtu.edu.cn/storage/ji/web/ipcn/page/2026/05/f180c8bc98cc30ad8aec6894e8fe79cd.jpg)
+
 **Duration**: 3 weeks | **Eligibility**: All students
 
 Courses offered: **Archaeology / Arabic Culture / Environmental Studies** (new courses, pending approval, estimated 2–3 credits)
 :::
 ::: details Germany — Technische Universität Berlin (TU Berlin)
+![TU Berlin](https://smse.sjtu.edu.cn/storage/ji/web/ipcn/page/2026/05/e99ae9e5334af869e20c0f993122c6f6.jpg)
+
 **Duration**: 4 weeks | **Eligibility**: Technical programs — sophomore and above; Language programs — all students
 
 **German Language Course**: 4-week intensive German focusing on practical foundational communication skills
@@ -45,12 +51,16 @@ Courses offered: **Archaeology / Arabic Culture / Environmental Studies** (new c
 Includes visits to the Reichstag, day trips to Potsdam/Dresden, and other cultural activities.
 :::
 ::: details France — Université de Technologie de Troyes (UTT)
+![UTT](https://smse.sjtu.edu.cn/storage/ji/web/ipcn/page/2026/05/34e8da50c4edf3d6416506f5cacae004.jpg)
+
 **Duration**: 4 weeks | **Eligibility**: Sophomores and above
 
 **French as a Foreign Language** (6 IB Humanities credits): Placement-based, from beginner to advanced
 **Psychosocial Skills for Sustainable Management** (2 IB Personal Development credits): Communication, teamwork, leadership, decision-making
 :::
 ::: details South Korea — Korea University
+![Korea University](https://smse.sjtu.edu.cn/storage/ji/web/ipcn/page/2026/05/484e1ea82ca6e942ed68549d02dd07a1.jpg)
+
 **Eligibility**: All students
 
 Students must take at least 4 credits. Courses include:
@@ -61,6 +71,8 @@ Students must take at least 4 credits. Courses include:
 - **Social Psychology** (2 credits, Social Sciences)
 :::
 ::: details Croatia — University of Zagreb
+![University of Zagreb](https://smse.sjtu.edu.cn/storage/ji/web/ipcn/page/2026/05/f7533c2d1376c7f9d76d80a54f9ee810.jpg)
+
 **Duration**: 4 weeks | **Eligibility**: All students
 
 Two modules, 4 courses, totaling 64 class hours:
@@ -71,16 +83,22 @@ Two modules, 4 courses, totaling 64 class hours:
 The program is primarily based in Zagreb, with one week in Dubrovnik. Convenient access to Rome, Vienna, Budapest, and other European cities.
 :::
 ::: details Japan — Ritsumeikan University
+![Ritsumeikan University](https://smse.sjtu.edu.cn/storage/ji/web/ipcn/page/2026/05/6ef049c7ce398eba73affdfa1b4adce4.jpg)
+
 **Duration**: 3 weeks of classes + 1 week of free travel | **Eligibility**: All students
 
 Course: Japanese Language and Culture
 :::
 ::: details Japan — Sophia University
+![Sophia University](https://smse.sjtu.edu.cn/storage/ji/web/ipcn/page/2026/05/0e1a41680a173d526b83ecd2d11bf74a.jpg)
+
 **Duration**: 4 weeks of classes + 1 week of free travel | **Eligibility**: Sophomores and above
 
 Courses: Japanese Language, Japanese Business & Economics, Japanese Education, Japanese Contemporary Culture & Society, Japanese Media & Current Issues
 :::
 ::: details Spain — University of Navarra
+![University of Navarra](https://smse.sjtu.edu.cn/storage/ji/web/ipcn/page/2026/05/1841026d96a2d1734a145f1dcd8d2c73.jpg)
+
 **Duration**: 4 weeks | **Eligibility**: Sophomores and above
 
 **Spanish** (3 IB Humanities credits) — Pamplona campus
@@ -90,17 +108,23 @@ Courses: Japanese Language, Japanese Business & Economics, Japanese Education, J
 - Includes company visit (Multiverse Computing)
 :::
 ::: details New Zealand — University of Auckland
+![University of Auckland](https://smse.sjtu.edu.cn/storage/ji/web/ipcn/page/2026/05/6bcdac5d79a242ff6b5d7b553717bb78.jpg)
+
 **Duration**: 7 weeks | **Eligibility**: Sophomores and above
 
 **STATS 330 – Statistical Modelling**: Generalized linear models (GLM), multiple regression, logistic regression, using R
 Includes Māori cultural experience day, Waiheke Island day trip, and other cultural activities.
 :::
 ::: details Hungary — University of Pécs
+![University of Pecs](https://smse.sjtu.edu.cn/storage/ji/web/ipcn/page/2026/05/ae2faf2998f57a87a0a34cc76c1ba26f.jpg)
+
 **Duration**: 3 weeks | **Eligibility**: All students
 
 **European Art and Culture — Through the Lens of Central and Eastern European Towns**: An interdisciplinary course exploring European intellectual and cultural history, covering history, philosophy, art history, architecture, and more. Includes visits to museums and UNESCO World Heritage sites.
 :::
 ::: details United Kingdom — University College London (UCL)
+![UCL](https://smse.sjtu.edu.cn/storage/ji/web/ipcn/page/2026/05/e7d0fae9eacd319cc520ba1434656658.jpg)
+
 **Duration**: 3 weeks | **Eligibility**: All students
 
 Three weekly themes:
@@ -131,31 +155,43 @@ In addition to the overseas **WP**, the domestic winter program is called **DWP*
 ### **Reference Programs (2026–2027)**
 
 ::: details Sustainable Design
+![Design for Sustainable Development](https://smse.sjtu.edu.cn/storage/ji/web/ipcn/page/2026/05/f3b7abbecb52ca2721064c83fe7253cb.jpg)
+
 **Credits**: IB-PD 2 credits | **Dates**: 2026.12.27 – 2027.1.7 | **Instructor**: Kwee-Yan Teh
 
 An action-oriented learning course where students work in teams to apply design skills to meet the sustainability needs of entrepreneurial ventures and community partner organizations. Includes interviews, immersive research, prototyping, field trips, and site visits.
 :::
 ::: details Digital Photography
+![Digital Photography](https://smse.sjtu.edu.cn/storage/ji/web/ipcn/page/2026/05/9965e69d5ca40d22f4d76fcaa8a99bc4.png)
+
 **Credits**: IB-ART 2 credits | **Dates**: 2026.12.27 – 2027.1.7 | **Instructor**: Manuel Charlemagne
 
 Take students into China's urban and natural landscapes to explore the beauty of nature and human scenery through the lens, learning photography techniques to capture and present the best views.
 :::
 ::: details Chinese History Field Study
+![Field Study in Chinese History](https://smse.sjtu.edu.cn/storage/ji/web/ipcn/page/2026/05/5578d4bb439a3fa620bc2653503d88cc.png)
+
 **Credits**: IB-SS 2 credits | **Dates**: 2026.12.27 – 2027.1.7 | **Instructor**: Tong Xu (徐彤)
 
 Travel to locations closely tied to specific themes in Chinese history, expanding and deepening understanding of Chinese history through experiential learning. Emphasizes immersive, firsthand engagement with history.
 :::
 ::: details Computational Thinking with Data
+![Computational Thinking with Data](https://smse.sjtu.edu.cn/storage/ji/web/ipcn/page/2026/05/04c1aa3a83d2513a4bd45c5208d5efa2.jpg)
+
 **Credits**: FTE 2 credits | **Dates**: 2027.1.4 – 2027.1.15 | **Instructor**: Ailin Zhang (张爱琳)
 
 Focuses on computational applications in data science, including using numerical software to process data, data modeling, and presenting research findings to stakeholders. Students can independently apply the skills learned to a dataset of their choice.
 :::
 ::: details Introduction to Literary Journalism
+![Introduction to Literary Journalism](https://smse.sjtu.edu.cn/storage/ji/web/ipcn/page/2026/05/a4ccd5ca792a9a7061999b8b96cc2f7e.png)
+
 **Credits**: IB-HU 2 credits | **Dates**: 2026.12.27 – 2027.1.7 | **Instructor**: Ryan Mallory Thorpe
 
 Travel to Chinese cities and remote areas to learn the practice of travel writing. Requires reading several works in advance. Through daily writing exercises and local experiences, discover truths about life and culture.
 :::
 ::: details Shanghai Through the Lens of Art
+![Discovering Shanghai Through the Lens of Art](https://smse.sjtu.edu.cn/storage/ji/web/ipcn/page/2026/05/68ff1a13a5d8224a48eeaed920b3deb5.jpg)
+
 **Credits**: IB-Art 2 credits | **Dates**: 2026.12.27 – 2027.1.7 | **Instructor**: Aline Chevalier
 
 Explore the imagery of Shanghai as a cosmopolitan and diverse metropolis, understand the various arts and ideas that have shaped Shanghai's urban character throughout history, and interpret the sociological and philosophical concepts behind them.
