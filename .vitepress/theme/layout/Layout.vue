@@ -4,7 +4,7 @@ import { useData, useRoute } from 'vitepress'
 import Giscus from '@giscus/vue'
 import { computed } from 'vue'
 
-const { frontmatter, lang } = useData()
+const { frontmatter, lang, isDark } = useData()
 const route = useRoute()
 
 // Config from https://giscus.app (requires Discussions enabled on the repo)
@@ -46,7 +46,7 @@ const giscusLang = computed(() => (lang.value === 'en-US' ? 'en' : 'zh-CN'))
           reactions-enabled="1"
           emit-metadata="0"
           input-position="bottom"
-          theme="preferred_color_scheme"
+          :theme="isDark ? 'dark' : 'light'"
           :lang="giscusLang"
           loading="lazy"
         />
