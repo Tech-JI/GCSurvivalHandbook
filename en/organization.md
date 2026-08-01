@@ -2,6 +2,36 @@
 
 The college boasts a diverse and high-caliber **student organization system** that provides students with a comprehensive platform for growth. Here, you'll not only meet like-minded peers but also cultivate leadership, professional skills, and team spirit. Joining a **student organization** means gaining valuable hands-on experience, lasting friendships, unique campus memories, and the core competencies that give you an edge in your future development. All of the college's student organizations welcome you aboard!
 
+## How to Join a Student Organization
+
+GC's student organizations follow a unified recruitment timeline with a clear, transparent process:
+
+### Fall Semester of First Year — Volunteer Phase
+
+After enrollment, each organization promotes its recruitment through **info sessions**, **WeChat posts**, and **orientation groups**. New students can join their preferred organization as a **volunteer**. During this phase, you'll participate in event planning and execution under the guidance of department heads and senior students, gradually learning how the department operates. The core goal of the volunteer phase is **exploration and learning** — even if you're unfamiliar with a department's work, you can start as a volunteer and discover your interests through hands-on experience.
+
+### Spring Semester — Becoming an Official Member
+
+After a semester of experience, volunteers can apply for **official membership** at the beginning of the spring semester. The transition is typically evaluated by department heads based on:
+
+- Participation and attendance in the previous semester's activities
+- Quality and initiative in completing assigned work
+- Team collaboration and communication skills
+
+Once accepted as an official member, you'll take on more responsibilities in future activities and have access to internal training and team-building opportunities.
+
+### June–July — Leadership Elections
+
+At the end of each academic year (summer semester), organizations hold **leadership elections** to form the new leadership team and presidium. The process typically involves:
+
+1. **Candidacy submission**: Members interested in staying on and taking on leadership roles submit their application
+2. **Campaign speeches**: Candidates present their work plans and vision
+3. **Voting**: Members vote to elect the new leadership team
+
+After the elections, the new leadership team completes the handover during the summer break and prepares activities for the coming academic year.
+
+> **Tip**: The fall semester of your first year is the best time to explore and join student organizations. It's recommended to commit to no more than **1–2 organizations** at a time to ensure you have enough energy to participate meaningfully. Check each organization's WeChat account or recruitment groups for specific deadlines and requirements.
+
 ## **Student Union**
 
 The **GC Student Union** is a vibrant and creative student organization dedicated to enriching campus life and building a high-quality platform for student growth and development. The Student Union comprises six departments — **Career Development Department**, **Internal Liaison Department**, **External Relations Department**, **Arts and Entertainment Department**, **Technical Department**, and **Sports and Club Department** — each with its own distinct character yet closely interwoven to support students' academic progress, career planning, and extracurricular activities.

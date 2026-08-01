@@ -57,9 +57,9 @@ Mathematics is one of the most important foundational subjects in your first yea
 ### **ENGR1000 vs ENGR1010: Which to Take First in Fall?**
 
 - **ENGR1000 (Introduction to Engineering)**: Divided into engineering technology and technical communication components. Students work in teams to complete a multi-stage engineering project, culminating in a showcase at **Design Expo**. The workload is relatively heavy but can be shared through teamwork. Suitable for students who enjoy hands-on practice and collaboration.
-- **ENGR1010 (Introduction to Computing)**: Learn how computers work and programming (MATLAB, C, C++), with weekly labs and homework. Suitable for students with some programming background or those who want to build solid programming skills.
+- **ENGR1010 (Introduction to Computing)**: Learn how computers work and systematically study three programming languages — **MATLAB**, **C**, and **C++**. The course has weekly labs and homework and moves at a fast pace, but your programming skills will improve dramatically by the end of the semester. Suitable for students with some programming background or those who want to build solid programming skills.
 
-> About two-thirds of students take ENGR1010 first in the fall semester, but the two courses have no prerequisite relationship. The programming content in ENGR1000 is very basic — no prior programming experience is needed. Both are introductory courses and have no direct bearing on your future major choice (ME vs ECE). Just pick whichever interests you more.
+> About two-thirds of students take ENGR1010 first in the fall semester, but the two courses have no prerequisite relationship. The programming content in ENGR1000 is very basic — no prior programming experience is needed. Both are introductory courses and have no direct bearing on your future major choice. Just pick whichever interests you more.
 
 ### **Intellectual Breadth (IB) Course Categories**
 
@@ -73,6 +73,26 @@ Mathematics is one of the most important foundational subjects in your first yea
 | **Natural Sciences** | No separate minimum | Biology, Chemistry, Physics, Astronomy, Earth Sciences, etc. |
 
 Additionally, up to **8 credits** of language courses can count toward IB. Art courses have a separate minimum requirement of at least **2 credits**, which can count toward either IB or General Elective. Humanities courses are recommended in spring or summer semesters. Refer to the official graduation requirements before course selection to ensure you meet the credit thresholds in each category.
+
+### Credit System Overview
+
+**Credits** are the basic unit for measuring academic workload. Each course carries a certain number of credits based on its contact hours, difficulty, and teaching load. You earn credits by completing and passing a course, and must accumulate the required credits in each category to graduate.
+
+GC's credit requirements generally fall into the following categories:
+
+| Credit Category | Description | How to Earn |
+|----------------|-------------|-------------|
+| **Engineering Foundation** | Foundational courses in math, physics, chemistry, and introductory computing | Required; completed in semesters 1–4 according to your degree plan |
+| **Program Subjects** | Core courses for your major, e.g., circuits, signals & systems, data structures | Required; taken progressively according to your degree plan |
+| **Academic Writing** | ENGL1000J (Academic Writing I) and ENGL2000J (Academic Writing II) | Required; taken in fall and spring of the first year |
+| **Intellectual Breadth (IB)** | Humanities, social sciences, professional development, and natural sciences (see IB Course Categories above) | Elective; must meet minimum thresholds in each sub-category |
+| **Electives** | Includes core electives, upper-level technical electives, flexible technical electives, and general electives | Flexible; chosen based on personal interests and degree requirements |
+
+Using the ECE program as an example, graduation requires a total of **136 credits**: 39 credits of Engineering Foundation, 39 credits of Program Subjects, 8 credits of Academic Writing, 16 credits of IB, and 34 credits of electives (including 8 credits of core electives, 7 credits of upper-level technical electives, 12 credits of flexible technical electives, and 7 credits of general electives). The ME, CS, and DS programs follow a similar structure — refer to each program's latest degree plan for the specific credit breakdown.
+
+Additionally, domestic Chinese students must complete the ideological and political courses required by the Ministry of Education, while international students are required to take 12 credits of Chinese language and culture courses.
+
+> **Key Concepts**: Your semester workload must stay between **12–18 credits**. If you need to exceed (Overload) or go below (Underload) this range, you must apply through **bpm** to the UEO before course registration. All credit-related matters (such as credit transfers and prerequisite overrides) are handled on the [bpm](https://bpm.gc.sjtu.edu.cn) platform.
 
 ## Registration Guide
 
@@ -132,6 +152,50 @@ GC encourages undergraduate students to get involved in research as early as pos
 - **IAP** (Independent Academic Project): A self-directed academic project where you can independently conduct research on a topic of interest.
 
 Research outcomes from these programs can typically count toward the **general elective credits** required for graduation (up to 4 credits). Additionally, you can directly reach out to professors you're interested in working with and ask if there are opportunities to join their lab — this is the most direct and flexible path.
+
+## Major Declaration and Change of Major
+
+GC currently offers four undergraduate programs:
+
+- **Mechanical Engineering** (ME)
+- **Electrical and Computer Engineering** (ECE)
+- **Computer Science and Technology** (CS)
+- **Data Science and Big Data Technology** (DS)
+
+Students formally declare their major after completing the first-year general curriculum.
+
+### Major Declaration Timeline
+
+Students formally **declare their major at the end of the first academic year**. The college strongly recommends confirming your specific major before the start of the fall semester in your second year, so that your subsequent course planning and registration can proceed smoothly.
+
+The two introductory courses in the first year (ENGR1000 Introduction to Engineering and ENGR1010 Introduction to Computing) are both foundational survey courses. **They have no direct bearing on your future major choice** — you can freely choose based on your interests without worrying about your major direction too early.
+
+### Major Selection Criteria
+
+All students who meet the basic entry requirements can apply for any major offered by GC. Final admission decisions are based on three factors:
+
+1. **Preference Ranking** — your ranked order of preferred programs
+2. **Academic Performance** — your overall GPA and academic record from the first year
+3. **Program Quota / Capacity** — the enrollment capacity of each program for that year
+
+> **Tip**: During your first year, you can get to know the characteristics and focus areas of each program by talking to professors, attending program introduction workshops run by the Advising Center, and sitting in on upper-level courses. This will help you make an informed decision.
+
+### Change of Major
+
+If you wish to switch to a different program after declaring your major (Change of Major), you must meet the following conditions and follow the required process:
+
+- **Core prerequisite**: The target program must still have available capacity.
+- **Preliminary step**: Before submitting a formal application, you must first meet with the **Academic Advisor** of your intended target program to discuss transfer requirements and course articulation.
+- **Application window**: Change of major applications are **only accepted during the first week of a new semester**. Late applications will not be processed. Since the window is very short, plan ahead and reach out to the target program's advisor during the break.
+
+**Hard deadlines based on your expected graduation date**:
+
+| Expected Graduation | Last Chance to Apply for Major Change |
+|--------------------|--------------------------------------|
+| Summer of the current year | First week of the preceding spring semester |
+| Spring of the current year | First week of the preceding fall semester |
+
+> For example: If you plan to graduate in Summer 2027, you cannot apply for a change of major after the first week of the Spring 2027 semester. The earlier you switch, the better — transferring later in your academic career will lead to course articulation difficulties and increased time costs.
 
 ## Labor Hours
 
