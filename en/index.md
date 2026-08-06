@@ -28,5 +28,16 @@ hero:
       link: /en/extra
 features:
   - title: Presented by
-    details: The 20th GC Student Union
+    details: The 20th & 21st GC Student Union
 ---
+
+<!--
+  作者 / Authors:
+  - Jacky Tang (Jacky T)
+  - A-lexisL (alexis / Liang Sirui)
+  - WilliamK7
+-->
+
+<div style="text-align: center; margin-top: 2rem; color: var(--vp-c-text-3); font-size: 0.875rem;">
+  Copyright &copy; 2025&ndash;2026 TechJI
+</div>

@@ -28,5 +28,16 @@ hero:
       link: /extra
 features:
   - title: Presented by
-    details: 第 20 届 GC 学生会
+    details: 第 20 & 21 届 GC 学生会
 ---
+
+<!--
+  作者 / Authors:
+  - A-lexisL
+  - Jacky Tang
+  - WilliamK7
+-->
+
+<div style="text-align: center; margin-top: 2rem; color: var(--vp-c-text-3); font-size: 0.875rem;">
+  Copyright &copy; 2025&ndash;2026 TechJI
+</div>

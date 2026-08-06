@@ -125,6 +125,9 @@ export default defineConfig({
 
   themeConfig: {
     siteTitle: false,
+    search: {
+      provider: "local",
+    },
     socialLinks: [
       { icon: "github", link: "https://github.com/Tech-JI/GCSurvivalHandbook" },
     ],

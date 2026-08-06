@@ -40,7 +40,17 @@ Some people describe Feishu as a combination of WPS + WeChat + Zoom + Trello, co
 
 ## **Writing Center Guide**
 
-During the **Fall English Writing Course**, your professor or TA will guide you through your first use of the **Writing Center**, where you can schedule time with a **Writing Consultant** (typically an upperclassman) to help polish your essays. After logging into the official website [https://bluetiger.sjtu.edu.cn](https://bluetiger.sjtu.edu.cn/), you can view the details of the consultants on duty for each time slot and choose a convenient time to book. Sometimes you may need to communicate via **Feishu (飞书)** — in that case, you can send the document you need reviewed to the consultant in advance for an efficient session.
+**Writing Center** is a writing tutoring team composed of senior undergraduate students led by JI's humanities faculty, aimed at helping students improve their English academic writing skills. **The Writing Center's help is not limited to ENGL1000/2000 coursework** — whether it's a **Personal Statement**, **Resume**, **Statement of Purpose**, or any other academic or application-related writing, you can book one-on-one sessions with a consultant for guidance.
+
+During the **Fall English Writing Course**, your professor or TA will guide you through your first use of the **Writing Center**. The Writing Center also arranges appointments for students who need help before finals week each semester.
+
+For new students, college-level writing courses differ greatly from high school English writing in format, themes, and conventions. Writing Center consultants are professionally trained and highly familiar with common writing challenges faced by new students. All consultations are completely confidential, so there's no need to worry about information disclosure. The more actively you engage during the session, the more you'll gain — consultants will guide you to participate more in the conversation, so there's no pressure.
+
+**How to Book**:
+- Log in at [https://bluetiger.sjtu.edu.cn](https://bluetiger.sjtu.edu.cn/), check the availability of consultants for each time slot, and choose a convenient time to book
+- Each appointment is typically a **30-minute** face-to-face session
+
+You can also contact a consultant via **Feishu (飞书)** to send the document you need reviewed in advance, helping make the session more efficient.
 
 ## **SRC (Student Rights Center) Guide**
 
@@ -94,3 +104,19 @@ The **Network Information Center (网络信息中心)** website is a hub for SJT
 - **Campus Network Connection (校园网链接)**: Helps you make the most of the campus Wi-Fi, so you can say goodbye to using mobile data on campus!
 
 There are many more network-related tools available, but the three above are the most commonly used. Knowing how to make good use of these network tools will be very important for navigating the digital landscape of university life. So go ahead and explore!
+
+## **Library Borrowing Rules**
+
+**Link: [https://www.lib.sjtu.edu.cn](https://www.lib.sjtu.edu.cn)**
+
+SJTU library (Main Library, Bao Yugang Library, Tsung-Dao Lee Library, etc.) borrowing rules are as follows:
+- **Loan Period**: Standard books can be borrowed for 30 days, renewable once (another 30 days)
+- **Renewal & Holds**: Renewals and holds can be processed online through the library website. Held books are kept for 1 week upon arrival
+- **Overdue Fees**: Standard overdue fee is 0.10 yuan/day/book. If another user has placed a hold on the book, the overdue fee rises to 1.00 yuan/day/book
+- **How to Borrow**: Use your campus card, Siyuan Code, or SJTU V-Card at self-service machines or the service desk
+- **Seat Management**: If you need to temporarily leave your seat, note the time you left (must not exceed 30 minutes). Exceeding the time limit means you forfeit the seat
+- **Before Graduation**: All borrowed books must be returned and outstanding fees settled
+
+## **About URL Update: JI → GC**
+
+The institute has been fully upgraded from the former "UM-SJTU Joint Institute (JI)" to "**Shanghai Jiao Tong University Global College (GC)**". The old `ji.sjtu.edu.cn` domain has been discontinued, and all services have been migrated to the `*.gc.sjtu.edu.cn` domain. All old domain links in this handbook have been updated. If you find any remaining `ji.` links, please use the `gc.` version instead.
