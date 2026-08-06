@@ -1,9 +1,68 @@
 import { defineConfig } from "vitepress";
+import { withPwa } from "@vite-pwa/vitepress";
 
 // https://vitepress.dev/reference/site-config
-export default defineConfig({
+export default withPwa(
+defineConfig({
   cleanUrls: true,
   langMenuLabel: "Languages",
+
+  head: [
+    ["link", { rel: "icon", href: "/favicon.svg", type: "image/svg+xml" }],
+    ["link", { rel: "apple-touch-icon", href: "/pwa-192x192.png" }],
+    ["meta", { name: "apple-mobile-web-app-capable", content: "yes" }],
+    ["meta", { name: "apple-mobile-web-app-status-bar-style", content: "black-translucent" }],
+    ["meta", { name: "apple-mobile-web-app-title", content: "GC Handbook" }],
+  ],
+
+  pwa: {
+    registerType: "autoUpdate",
+    injectRegister: "script-defer",
+    includeAssets: ["favicon.svg", "pwa-192x192.png", "pwa-512x512.png"],
+    manifest: {
+      id: "/",
+      name: "GC Survival Handbook",
+      short_name: "GC Handbook",
+      description:
+        "GC Survival Handbook — UM-SJTU Joint Institute 留学生存指南",
+      theme_color: "#3451b2",
+      background_color: "#ffffff",
+      display: "standalone",
+      scope: "/",
+      start_url: "/",
+      icons: [
+        {
+          src: "/pwa-192x192.png",
+          sizes: "192x192",
+          type: "image/png",
+        },
+        {
+          src: "/pwa-512x512.png",
+          sizes: "512x512",
+          type: "image/png",
+        },
+        {
+          src: "/pwa-512x512.png",
+          sizes: "512x512",
+          type: "image/png",
+          purpose: "any maskable",
+        },
+      ],
+    },
+    workbox: {
+      globPatterns: ["**/*.{css,js,html,svg,png,ico,txt,woff2}"],
+      cleanupOutdatedCaches: true,
+      clientsClaim: true,
+      skipWaiting: true,
+      // woff2 fonts are several MB; default 2MB cap would exclude them
+      maximumFileSizeToCacheInBytes: 10 * 1024 * 1024,
+    },
+    devOptions: {
+      enabled: false,
+      type: "module",
+    },
+  },
+
 
   locales: {
     root: {
@@ -132,4 +191,6 @@ export default defineConfig({
       { icon: "github", link: "https://github.com/Tech-JI/GCSurvivalHandbook" },
     ],
   },
-});
+}));
+
+
