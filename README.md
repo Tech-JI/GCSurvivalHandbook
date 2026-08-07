@@ -57,4 +57,4 @@ actions:
 
 4. push to `master` and the website will be automatically updated.
 
-5. use `bun run docs:dev` to preview the page.  
+5. use `pnpm run docs:dev` to preview the page.  
