@@ -2,10 +2,36 @@
 import DefaultTheme from 'vitepress/theme'
 import { useData, useRoute } from 'vitepress'
 import Giscus from '@giscus/vue'
-import { computed } from 'vue'
+import { computed, onMounted, onUnmounted } from 'vue'
 
 const { frontmatter, lang, isDark } = useData()
 const route = useRoute()
+
+const EASTER_EGG_KEYWORD = 'Cyrene'
+const EASTER_EGG_PATH = '/cyrene'
+
+function handleEasterEgg(event) {
+  if (event.key !== 'Enter' || event.isComposing) return
+
+  const input = event.target
+
+  if (!(input instanceof HTMLInputElement)) return
+  if (input.id !== 'localsearch-input') return
+  if (input.value !== EASTER_EGG_KEYWORD) return
+
+  event.preventDefault()
+  event.stopImmediatePropagation()
+
+  window.location.assign(EASTER_EGG_PATH)
+}
+
+onMounted(() => {
+  document.addEventListener('keydown', handleEasterEgg, true)
+})
+
+onUnmounted(() => {
+  document.removeEventListener('keydown', handleEasterEgg, true)
+})
 
 // Config from https://giscus.app (requires Discussions enabled on the repo)
 const GISCUS_REPO_ID = 'R_kgDOPdGPTg'
