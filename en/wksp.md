@@ -4,12 +4,13 @@
 
 ## **General / Freshman Primer**
 
-### **Missing Semester Workshop** (2025 Fall)
+### **Missing Semester Workshop** (2026 Fall)
 
-A pre-college primer covering essential tools the classroom won't teach: package managers, shell basics, VS Code setup, Markdown writing, and AI tool usage.
+A pre-college primer on the tools you'll need before classes start: package managers (Homebrew / winget), shell basics, VS Code, Markdown, and recommendations for search engines and AI tools — with dedicated macOS and Windows sessions.
 
-- [github.com/Tech-JI/FreshmanWKSP0-2025](https://github.com/Tech-JI/FreshmanWKSP0-2025)
-- [Recording](https://sjtu.feishu.cn/minutes/obcnunkls5353iix5ps4196t)
+- [github.com/Tech-JI/missing-wksp-26fa](https://github.com/Tech-JI/missing-wksp-26fa)
+- [Recording — macOS session](https://sjtu.feishu.cn/minutes/obcny55ww9e688da96j219q3)
+- [Recording — Windows session](https://sjtu.feishu.cn/minutes/obcny55a3v6t1p7424u64qx8)
 
 ## **Shell / Terminal**
 
