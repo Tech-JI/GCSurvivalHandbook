@@ -4,12 +4,13 @@
 
 ## **综合 / 新生入门**
 
-### **Missing Semester 工作坊**（2025 秋）
+### **Missing Semester 工作坊**（2026 秋）
 
-面向新生的课前必备工具概览，涵盖包管理器、Shell 基础、VS Code 配置、Markdown 写作、AI 工具使用等课堂不会教但一定会用到的小技能。
+面向新生的课前必备工具工作坊，涵盖包管理器（Homebrew / winget）、Shell 基础、VS Code 使用、Markdown 写作与搜索引擎 / AI 工具推荐，并分 macOS 与 Windows 两个平台专场演示。
 
-- [github.com/Tech-JI/FreshmanWKSP0-2025](https://github.com/Tech-JI/FreshmanWKSP0-2025)
-- [录制回放](https://sjtu.feishu.cn/minutes/obcnunkls5353iix5ps4196t)
+- [github.com/Tech-JI/missing-wksp-26fa](https://github.com/Tech-JI/missing-wksp-26fa)
+- [macOS 专场录制回放](https://sjtu.feishu.cn/minutes/obcny55ww9e688da96j219q3)
+- [Windows 专场录制回放](https://sjtu.feishu.cn/minutes/obcny55a3v6t1p7424u64qx8)
 
 ## **Shell / 终端**
 
