@@ -6,7 +6,7 @@
 
 ### **Missing Semester Workshop** (2026 Fall)
 
-A pre-college primer on the tools you'll need before classes start: package managers (Homebrew / winget), shell basics, VS Code, Markdown, and recommendations for search engines and AI tools — with dedicated macOS and Windows sessions.
+A pre-college primer on the tools you'll need before classes start: WSL, package managers (Homebrew / winget), shell basics, VS Code, Markdown, and recommendations for search engines and AI tools — with dedicated macOS and Windows sessions.
 
 - [github.com/Tech-JI/missing-wksp-26fa](https://github.com/Tech-JI/missing-wksp-26fa)
 - [Recording — macOS session](https://sjtu.feishu.cn/minutes/obcny55ww9e688da96j219q3)

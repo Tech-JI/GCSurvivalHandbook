@@ -149,8 +149,6 @@ GC 目前设有四个本科专业：
 - **计算机科学与技术**（Computer Science and Technology, CS）
 - **数据科学与大数据技术**（Data Science and Big Data Technology, DS）
 
-学生在完成大一通识课程后正式确定专业方向。
-
 ### **专业确定时间线**
 
 学生于**入学前**正式确定专业（Declare Major）。
