@@ -46,7 +46,7 @@ Mathematics is one of the most important foundational subjects in your first yea
 
 ## Course Selection Guide
 
-**Fall Semester**: Complete the following foundational courses. For math, choose between **MATH1560/1860** (2.5 sessions/week). Take **CHEM2100** for chemistry (2.5 sessions/week). For introductory engineering, choose either **ENGR1010** or **ENGR1510**, or take **ENGR1000** (2 lectures + 1 lab session/week). Also fit in English writing **ENGL1000** (2.5 sessions/week), Modern Chinese History (1 session/week), Current Affairs & Policy (3 sessions/semester), and Physical Education (1 session/week).
+**Fall Semester**: Complete the following foundational courses. For math, choose between **MATH1560/1860** (2.5 sessions/week). Take **CHEM2100** for chemistry (2.5 sessions/week). For the introductory engineering course, take one of **ENGR1010** (Introduction to Computing) or **ENGR1000** (Introduction to Engineering) — the other is taken in the summer semester. Also fit in English writing **ENGL1000** (2.5 sessions/week), Modern Chinese History (1 session/week), Current Affairs & Policy (3 sessions/semester), and Physical Education (1 session/week).
 
 **Spring Semester**: Continue with core courses. English writing **ENGL2000** (3 sessions/week), Chemistry Lab **CHEM2110** (1 session/week, 5 sessions total). Also take Psychology (1 session every 2 weeks), Military Theory (2 sessions/week), Current Affairs & Policy (3 sessions/semester), Moral Education (2 sessions/week, each session is a 3-period block), and PE (1 session/week, continuing into the first 3 weeks of summer).
 
@@ -88,7 +88,7 @@ GC's credit requirements generally fall into the following categories:
 | **Intellectual Breadth (IB)** | Humanities, social sciences, professional development, and natural sciences (see IB Course Categories above) | Elective; must meet minimum thresholds in each sub-category |
 | **Electives** | Includes core electives, upper-level technical electives, flexible technical electives, and general electives | Flexible; chosen based on personal interests and degree requirements |
 
-Using the ECE program as an example, graduation requires a total of **136 credits**: 39 credits of Engineering Foundation, 39 credits of Program Subjects, 8 credits of Academic Writing, 16 credits of IB, and 34 credits of electives (including 8 credits of core electives, 7 credits of upper-level technical electives, 12 credits of flexible technical electives, and 7 credits of general electives). The ME, CS, and DS programs follow a similar structure — refer to each program's latest degree plan for the specific credit breakdown.
+Using the ECE program as an example, graduation requires a total of **136 credits**: 39 credits of Engineering Foundation, 39 credits of Program Subjects, 8 credits of Academic Writing, 16 credits of IB, and 34 credits of electives (including 8 credits of core electives, 7 credits of upper-level technical electives, 12 credits of flexible technical electives, and 7 credits of general electives). You can check your currently earned credits and the credits required for graduation at [degree.gc.sjtu.edu.cn/student/my_report](https://degree.gc.sjtu.edu.cn/student/my_report).
 
 Additionally, domestic Chinese students must complete the ideological and political courses required by the Ministry of Education, while international students are required to take 12 credits of Chinese language and culture courses.
 
@@ -112,18 +112,7 @@ Additionally, domestic Chinese students must complete the ideological and politi
    - **Assigned**: System-allotted enrollment, mainly used for parallel sections of mandatory courses to improve efficiency and prevent conflicts.
    - **Waitlist**: Queue-based backup.
 
-5. **Dropping courses**
-
-   - **Weeks 0–2**
-     Free drop (except for courses with special restrictions).
-   - **Weeks 3–4**
-     Requires an application approved by the instructor and the program head.
-   - **After week 4**
-     Requires an application approved by the instructor, the program head, and the Undergraduate Committee.
-   - **After week 6**
-     Requires an application approved by the instructor, the program head, and the Undergraduate Committee. A "W" (Withdrawal) will appear on your transcript.
-
-   **Note: You cannot drop a course once final assessments have begun or after grades have been posted. The rules above apply only to courses offered by this institute!**
+5. **Dropping courses** (see **GPA and Academic Standing → Course Withdrawal and W Notation** below): the requirements tighten step by step, from a free drop to multi-party approval, and a "W" is recorded on your transcript after week 6.
 
 6. **Common terminology**
 
@@ -162,23 +151,17 @@ GC currently offers four undergraduate programs:
 - **Computer Science and Technology** (CS)
 - **Data Science and Big Data Technology** (DS)
 
-Students formally declare their major after completing the first-year general curriculum.
-
 ### Major Declaration Timeline
 
-Students formally **declare their major at the end of the first academic year**. The college strongly recommends confirming your specific major before the start of the fall semester in your second year, so that your subsequent course planning and registration can proceed smoothly.
+Students formally **declare their major before enrollment**.
 
 The two introductory courses in the first year (ENGR1000 Introduction to Engineering and ENGR1010 Introduction to Computing) are both foundational survey courses. **They have no direct bearing on your future major choice** — you can freely choose based on your interests without worrying about your major direction too early.
 
 ### Major Selection Criteria
 
-All students who meet the basic entry requirements can apply for any major offered by GC. Final admission decisions are based on three factors:
+All students who meet the basic entry requirements can apply for any major offered by GC.
 
-1. **Preference Ranking** — your ranked order of preferred programs
-2. **Academic Performance** — your overall GPA and academic record from the first year
-3. **Program Quota / Capacity** — the enrollment capacity of each program for that year
-
-> **Tip**: During your first year, you can get to know the characteristics and focus areas of each program by talking to professors, attending program introduction workshops run by the Advising Center, and sitting in on upper-level courses. This will help you make an informed decision.
+> **Tip**: Before enrollment, you can get to know the characteristics and focus areas of each program by talking with your family, mentors, and upperclassmen, attending program introduction workshops run by the Advising Center, and sitting in on upper-level courses. This will help you make an informed decision.
 
 ### Change of Major
 
@@ -219,6 +202,8 @@ GC uses a 4.0 GPA scale:
 | B-    | 2.7       | F (Failure) | 0       |
 
 **GPA Formula**: Semester GPA = Σ(Course GPA Points × Credits) / Σ(Credits). Cumulative GPA is calculated the same way across all courses taken.
+
+You can check your GPA at [degree.gc.sjtu.edu.cn/student/my_report](https://degree.gc.sjtu.edu.cn/student/my_report) or [i.gc.sjtu.edu.cn](https://i.gc.sjtu.edu.cn).
 
 #### **Grade Point Deficit (GPD) and Academic Status**
 
