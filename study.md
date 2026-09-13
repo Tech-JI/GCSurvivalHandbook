@@ -205,7 +205,7 @@ GC 采用 4.0 制 GPA：
 
 **GPA 计算公式**：学期 GPA = Σ(课程 GPA 点数 × 学分) / Σ(学分)。累计 GPA 同样方式计算所有已修课程。
 
-你可以在 [degree.gc.sjtu.edu.cn/student/my_report](https://degree.gc.sjtu.edu.cn/student/my_report) 或 [i.gc.sjtu.edu.cn](i.gc.sjtu.edu.cn) 中查看你的GPA。
+你可以在 [degree.gc.sjtu.edu.cn/student/my_report](https://degree.gc.sjtu.edu.cn/student/my_report) 或 [i.gc.sjtu.edu.cn](https://i.gc.sjtu.edu.cn) 中查看你的GPA。
 
 #### **Grade Point Deficit（GPD）与学业状态**
 
