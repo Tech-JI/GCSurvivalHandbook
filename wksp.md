@@ -44,7 +44,7 @@ Git 版本控制入门，涵盖基本操作、分支管理、协作流程与 Git
 
 ### **Git 工作坊**（2026 夏）
 
-Git 进阶版，在基础之上深入讲解 rebase、cherry-pick、submodule 等高级操作。
+Git 进阶版，在基础之上深入讲解 rebase、cherry-pick、submodule 等高级操作，以及在社区层面的Fork、PR、Issue等合作规范。
 
 - [github.com/Tech-JI/git_wksp_26su](https://github.com/Tech-JI/git_wksp_26su)
 - [录制回放](https://sjtu.feishu.cn/minutes/obcnwj83r73n5tva173f3m4s)
